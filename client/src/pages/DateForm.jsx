@@ -165,7 +165,7 @@ export default function DateForm({ embedded = false }) {
             {isOpen && (
               <div className="dropdown-list open">
                 {filtered.length === 0 ? (
-                  <div className="dropdown-item no-result">No names found</div>
+                  <div className="dropdown-item no-result">{names.length === 0 ? `No ${oppositeGender === 'girls' ? 'girls' : 'boys'} registered yet. Please check back later!` : 'No names match your search'}</div>
                 ) : (
                   filtered.map((name) => {
                     const isSignedUp = partnerStatus[name];
