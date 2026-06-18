@@ -1,0 +1,1578 @@
+{
+  "boys": [
+    {
+      "name": "VATSAL AGARWAL",
+      "email": "vatsal.agarwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "ISHANK SHARMA",
+      "email": "ishank.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "Abhinav Tripathi",
+      "email": "abhinav.tripathi_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAJAT SHARMA",
+      "email": "rajat.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "SURAJ NAGAICH",
+      "email": "suraj.nagaich_cs23@gla.ac.in"
+    },
+    {
+      "name": "VISHAL AGRAWAL",
+      "email": "vishal.agrawal_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKSHAT AGARWAL",
+      "email": "akshat.agarwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "LOKENDRA",
+      "email": "lokendra.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "JATIN KUMAR TUREHA",
+      "email": "jatin.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "Arsh Gupta",
+      "email": "arsh.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARYAN GUPTA",
+      "email": "aryan.gupta1_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN SHAKYA",
+      "email": "aman.shakya_cs23@gla.ac.in"
+    },
+    {
+      "name": "SARTHAK TIWARI",
+      "email": "sarthak.tiwari2_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH SHARMA",
+      "email": "ayush.sharma5_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEPAK SINGH",
+      "email": "deepak.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "Ridam Chaudhary",
+      "email": "ridam.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "YATENDER KUMAR",
+      "email": "yatender.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "GAURAV SAINI",
+      "email": "gaurav.saini_cs23@gla.ac.in"
+    },
+    {
+      "name": "DHRUV TIWARI",
+      "email": "dhruv.tiwari_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRANJAL PANDEY",
+      "email": "pranjal.pandey_cs23@gla.ac.in"
+    },
+    {
+      "name": "Gaurav Kuntal",
+      "email": "gaurav.kuntal_cs23@gla.ac.in"
+    },
+    {
+      "name": "KARTIKEY VERMA",
+      "email": "kartikey.verma_cs23@gla.ac.in"
+    },
+    {
+      "name": "Aditya Gupta",
+      "email": "aditya.gupta4_cs23@gla.ac.in"
+    },
+    {
+      "name": "AAYUSH RAWAT",
+      "email": "aayush.rawat_cs23@gla.ac.in"
+    },
+    {
+      "name": "BHAVISHYA AGRAWAL",
+      "email": "bhavishya.agrawal_cs23@gla.ac.in"
+    },
+    {
+      "name": "SPARSH AGARWAL",
+      "email": "sparsh.agarwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "SAKSHAM SHARMA",
+      "email": "saksham.sharma_cs24@gla.ac.in"
+    },
+    {
+      "name": "LAKHAN LAL",
+      "email": "lakhan.lal_cs23@gla.ac.in"
+    },
+    {
+      "name": "ASHWANI SINGH",
+      "email": "ashwani.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "KUNAL KUMAR",
+      "email": "kunal.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEPAK",
+      "email": "deepak.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANURAG KUMAR",
+      "email": "anurag.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "MAYANK MAURYA",
+      "email": "mayank.maurya_cs23@gla.ac.in"
+    },
+    {
+      "name": "GOPESH SHARMA",
+      "email": "gopesh.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "TARUN KUMAR",
+      "email": "tarun.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANKIT VERMA",
+      "email": "ankit.verma_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRAKHAR PATEL",
+      "email": "prakhar.patel_cs23@gla.ac.in"
+    },
+    {
+      "name": "VISHAL",
+      "email": "vishal.gla5_cs23@gla.ac.in"
+    },
+    {
+      "name": "Abhishek Mishra",
+      "email": "abhishek.mishra_cs23@gla.ac.in"
+    },
+    {
+      "name": "LAKHAN CHAUDHARY",
+      "email": "lakhan.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "RUDRA GUPTA",
+      "email": "rudra.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "Shashank Gla",
+      "email": "shashank.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "Aditya Kumar",
+      "email": "aditya.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "MOHIT KUMAR",
+      "email": "mohit.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "MOHIT JADON",
+      "email": "mohit.jadon_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANURAG",
+      "email": "anurag.gla1_cs23@gla.ac.in"
+    },
+    {
+      "name": "Mishra Pankaj",
+      "email": "mishra.pankaj_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHISHEK SINGH",
+      "email": "abhishek.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARIOM TIWARI",
+      "email": "hariom.tiwari_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA VERMA",
+      "email": "aditya.verma3_cs23@gla.ac.in"
+    },
+    {
+      "name": "AAKHYA SAHU",
+      "email": "aakhya.sahu_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHIJEET MISHRA",
+      "email": "abhijeet.mishra_cs23@gla.ac.in"
+    },
+    {
+      "name": "KETAN SINGH",
+      "email": "ketan.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "PREM SHARMA",
+      "email": "prem.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "AASU JAISWAL",
+      "email": "aasu.jaiswal_cs.csf23@gla.ac.in"
+    },
+    {
+      "name": "ADVAY SHARMA",
+      "email": "advay.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "NITESH",
+      "email": "nitesh.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN PATHAK",
+      "email": "aman.pathak_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHAY PRATAP SINGH",
+      "email": "abhay.pratap_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARYAN YADAV",
+      "email": "aryan.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN DAMELE",
+      "email": "aman.damele_cs23@gla.ac.in"
+    },
+    {
+      "name": "TOORENDRA PRATAP",
+      "email": "toorendra.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "DHANANJAY SINGH",
+      "email": "dhananjay.kushwah_cs23@gla.ac.in"
+    },
+    {
+      "name": "CHITRANSH SHARMA",
+      "email": "chitransh.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARPIT SHARMA",
+      "email": "arpit.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "PARTH GOSWAMI",
+      "email": "parth.goswami_cs23@gla.ac.in"
+    },
+    {
+      "name": "RISHIK KUSHWAHA",
+      "email": "rishik.kushwaha_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHOURAV",
+      "email": "shourav.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA KUMAR RAI",
+      "email": "aditya.rai_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAJNEESH GUPTA",
+      "email": "rajneesh.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "BALRAM SINGH",
+      "email": "balram.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANSH SRIVASTAVA",
+      "email": "ansh.srivastava_cs23@gla.ac.in"
+    },
+    {
+      "name": "SURYANSH VASHISTHA",
+      "email": "suryansh.vashistha_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARSHIT GUPTA",
+      "email": "harshit.gupta2_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKASH YADAV",
+      "email": "akash.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARPIT SHIVHARE",
+      "email": "arpit.shivhare_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHISHEK KUMAR",
+      "email": "abhishek.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN GUPTA",
+      "email": "aman.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANURAG SINGH",
+      "email": "anurag.dhangar_cs23@gla.ac.in"
+    },
+    {
+      "name": "GAURAV CHAUDHARY",
+      "email": "gaurav.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "RISHAV HALDAR",
+      "email": "rishav.haldar_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKASH",
+      "email": "akash.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "DAKSH GUPTA",
+      "email": "daksh.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYANSHU SINGH",
+      "email": "priyanshu.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASH RASTOGI",
+      "email": "yash.rastogi_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHASHANK KUMAR",
+      "email": "shashank.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASH JASAWAT",
+      "email": "yash.jasawat_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYANSHU DUBEY",
+      "email": "priyanshu.dubey_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "email": "ankit.kumar4_cs23@gla.ac.in"
+    },
+    {
+      "name": "LALIT CHAUHAN",
+      "email": "lalit.chauhan_cs23@gla.ac.in"
+    },
+    {
+      "name": "INDRAJEET YADAV",
+      "email": "indrajeet.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "TANISHK SAXENA",
+      "email": "tanishk.saxena_cs23@gla.ac.in"
+    },
+    {
+      "name": "TARUN AGARWAL",
+      "email": "tarun.agarwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "SURAJ SINGH",
+      "email": "suraj.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ASHU CHAUDHARY",
+      "email": "ashu.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "VINEET KUMAR",
+      "email": "vineet.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMIT",
+      "email": "amit.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "SAURAV KUMAR RAI",
+      "email": "saurav.rai_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYANSHU VERMA",
+      "email": "priyanshu.verma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ATUL YADAV",
+      "email": "atul.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRASHANT SINGH",
+      "email": "prashant.singh6_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN VERMA",
+      "email": "aman.verma1_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAGHAV PACHAURI",
+      "email": "raghav.pachauri_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASH GUPTA",
+      "email": "yash.gupta2_cs23@gla.ac.in"
+    },
+    {
+      "name": "YADU YADAV",
+      "email": "yadu.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "NISHANT CHAUHAN",
+      "email": "nishant.chauhan_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRASHANT",
+      "email": "prashant.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYANSHU YADAV",
+      "email": "priyanshu.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "GAUTAM KUMAR",
+      "email": "gautam.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "SAHIL YADAV",
+      "email": "sahil.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "NAMAN SAINI",
+      "email": "naman.saini_cs23@gla.ac.in"
+    },
+    {
+      "name": "VISHAL",
+      "email": "vishal.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHIKHAR SINGH NEGI",
+      "email": "shikhar.negi_cs23@gla.ac.in"
+    },
+    {
+      "name": "OMPAL SINGH",
+      "email": "ompal.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "GARVIT CHOUDHARY",
+      "email": "garvit.choudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "SURAJ PARASHAR",
+      "email": "suraj.parashar_cs23@gla.ac.in"
+    },
+    {
+      "name": "VIPIN KUMAR",
+      "email": "vipin.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "ISHANT VARSHNEY",
+      "email": "ishant.varshney_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASHASVI PANDEY",
+      "email": "yashasvi.pandey_cs23@gla.ac.in"
+    },
+    {
+      "name": "GOPAL SINGH",
+      "email": "gopal.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "JAI SHARMA",
+      "email": "jai.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ATHARV PANDEY",
+      "email": "atharv.pandey_cs23@gla.ac.in"
+    },
+    {
+      "name": "KESHAV VERMA",
+      "email": "keshav.verma1_cs23@gla.ac.in"
+    },
+    {
+      "name": "MANISH CHAUDHARY",
+      "email": "manish.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "VINAYAK VERMA",
+      "email": "vinayak.verma_cs23@gla.ac.in"
+    },
+    {
+      "name": "DUSHYANT PRATAP",
+      "email": "dushyant.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUGAM CHAUDHARY",
+      "email": "sugam.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARSHIT KUMAR SINGH",
+      "email": "harshit.singh3_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAHUL MUDGAL",
+      "email": "rahul.mudgal_cs23@gla.ac.in"
+    },
+    {
+      "name": "MANISH KUMAR",
+      "email": "manish.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "BHUPESH KUMAR",
+      "email": "bhupesh.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "KANAIYA GEDA",
+      "email": "kanaiya.geda_cs23@gla.ac.in"
+    },
+    {
+      "name": "SITA RAM SHARMA",
+      "email": "sita.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYAM SAXENA",
+      "email": "priyam.saxena_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANURAG VASHISHTHA",
+      "email": "anurag.vashishtha_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARVIND PANWAR",
+      "email": "arvind.panwar_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEPAK PANDEY",
+      "email": "deepak.pandey_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEVANSHU MISHRA",
+      "email": "devanshu.mishra_cs23@gla.ac.in"
+    },
+    {
+      "name": "KANHAIYA DIXIT",
+      "email": "kanhaiya.dixit_cs23@gla.ac.in"
+    },
+    {
+      "name": "VAISHNAV P RAMESH",
+      "email": "vaishnav.ramesh_cs23@gla.ac.in"
+    },
+    {
+      "name": "NITIN KUMAR",
+      "email": "nitin.kumar1_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARPAN JAIN",
+      "email": "arpan.jain_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRASHANT",
+      "email": "prashant.gla1_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANUJ SHAHDEO",
+      "email": "anuj.shahdeo_cs23@gla.ac.in"
+    },
+    {
+      "name": "JEEVESH JAIN",
+      "email": "jeevesh.jain_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKASH UPADHYAY",
+      "email": "akash.upadhyay1_cs23@gla.ac.in"
+    },
+    {
+      "name": "KHUSHVEER SINGH",
+      "email": "khushveer.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHIVAM KUMAR",
+      "email": "shivam.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUNNY SAINI",
+      "email": "sunny.saini_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASEEN",
+      "email": "yaseen.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYANSHU UPADHYAY",
+      "email": "priyanshu.upadhyay_cs23@gla.ac.in"
+    },
+    {
+      "name": "VIVEK RAGHAV",
+      "email": "vivek.raghav_cs23@gla.ac.in"
+    },
+    {
+      "name": "HEMANT KAUSHIK",
+      "email": "hemant.kaushik_cs23@gla.ac.in"
+    },
+    {
+      "name": "JAGDEEP SINGH",
+      "email": "jagdeep.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "RASIK YADAV",
+      "email": "rasik.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARYAN YADAV",
+      "email": "aryan.yadav7_cs23@gla.ac.in"
+    },
+    {
+      "name": "RUDRA SHARMA",
+      "email": "rudra.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "VAIBHAV VERMA",
+      "email": "vaibhav.verma3_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANSHUL SHARMA",
+      "email": "anshul.sharma3_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH VERMA",
+      "email": "ayush.verma2_cs23@gla.ac.in"
+    },
+    {
+      "name": "NILESH SINGH",
+      "email": "nilesh.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "KRISHNA GUPTA",
+      "email": "krishna.gupta1_cs23@gla.ac.in"
+    },
+    {
+      "name": "VIYOM PATHAK",
+      "email": "viyom.pathak_cs23@gla.ac.in"
+    },
+    {
+      "name": "LUV",
+      "email": "luv.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "KISHAN PANDEY",
+      "email": "kishan.pandey_cs23@gla.ac.in"
+    },
+    {
+      "name": "VIVEK KUMAR",
+      "email": "vivek.kumar5_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN CHAUDHARY",
+      "email": "aman.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "DHRUV UPADHYAY",
+      "email": "dhruv.upadhyay_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARSHIT KUMAR",
+      "email": "harshit.kumar1_cs23@gla.ac.in"
+    },
+    {
+      "name": "KUNAL CHAUDHARY",
+      "email": "kunal.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "KARAN DIXIT",
+      "email": "karan.dixit_cs23@gla.ac.in"
+    },
+    {
+      "name": "VARUN GAUR",
+      "email": "varun.gaur_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEP SHARMA",
+      "email": "deep.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANIMESH KRISHN",
+      "email": "animesh.krishn_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRASHANT KUMAR",
+      "email": "prashant.kumar1_cs23@gla.ac.in"
+    },
+    {
+      "name": "MIHIR BANSAL",
+      "email": "mihir.bansal_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAM SINGH",
+      "email": "ram.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANURAG KUMAR",
+      "email": "anurag.gla3_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADARSH KUMAR",
+      "email": "adarsh.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "CHIRAG",
+      "email": "chirag.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "MILAN CHAUDHARY",
+      "email": "milan.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "ROHIT SHARMA",
+      "email": "rohit.sharma2_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARYAN BHADAURIA",
+      "email": "aryan.bhadauria_cs23@gla.ac.in"
+    },
+    {
+      "name": "DURGESH",
+      "email": "durgesh.gla_cs24@gla.ac.in"
+    },
+    {
+      "name": "ABHAY PRATAP SINGH",
+      "email": "abhay.singh1_cs23@gla.ac.in"
+    },
+    {
+      "name": "NITIN KUMAR",
+      "email": "nitin.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRIYAM KUMAR",
+      "email": "priyam.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADYUT PARIHAR",
+      "email": "adyut.parihar_cs23@gla.ac.in"
+    },
+    {
+      "name": "GANESHAN SINGH",
+      "email": "ganeshan.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARTHIK DWIVEDI",
+      "email": "arthik.dwivedi_cs24@gla.ac.in"
+    },
+    {
+      "name": "ASHUTOSH CHAUHAN",
+      "email": "ashutosh.chauhan_cs23@gla.ac.in"
+    },
+    {
+      "name": "PARAS THAPAR",
+      "email": "paras.thapar_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA GAUR",
+      "email": "aditya.gaur_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN SINGH KUNTAL",
+      "email": "aman.kuntal_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUMIT KUMAR SINGH",
+      "email": "sumit.singh_cs24@gla.ac.in"
+    },
+    {
+      "name": "DAKSH VARSHNEY",
+      "email": "daksh.varshney1_cs23@gla.ac.in"
+    },
+    {
+      "name": "KAUSHIK SINGH",
+      "email": "kaushik.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "SAHIL",
+      "email": "sahil.gla1_cs23@gla.ac.in"
+    },
+    {
+      "name": "VIVEK SINGH",
+      "email": "vivek.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "AAYUSH CHAUDHARY",
+      "email": "aayush.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH RAI",
+      "email": "ayush.rai_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH SHARMA",
+      "email": "ayush.sharma2_cs23@gla.ac.in"
+    },
+    {
+      "name": "KUNAL KUMAR",
+      "email": "kunal.kumar1_cs23@gla.ac.in"
+    },
+    {
+      "name": "CHIRAG VARSHNEY",
+      "email": "chirag.varshney_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHISHEK SINGH",
+      "email": "abhishek.singh5_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH SINGH",
+      "email": "ayush.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "VANSH GUPTA",
+      "email": "vansh.gupta2_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHUBHAM RAY GUPTA",
+      "email": "shubham.gupta3_cs23@gla.ac.in"
+    },
+    {
+      "name": "HIMANSHU RAJ",
+      "email": "himanshu.raj_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUMIT KUMAR",
+      "email": "sumit.kumar3_cs23@gla.ac.in"
+    },
+    {
+      "name": "MANOJ TARKAR",
+      "email": "manoj.tarkar_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARPIT SHARMA",
+      "email": "arpit.sharma1_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRINCE KUSHWAH",
+      "email": "prince.kushwah_cs23@gla.ac.in"
+    },
+    {
+      "name": "VAIBHAV SINGH",
+      "email": "vaibhav.singh2_cs23@gla.ac.in"
+    },
+    {
+      "name": "YUGAL MISHRA",
+      "email": "yugal.mishra_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHREYANSH GUPTA",
+      "email": "shreyansh.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "HEMANT SINGH",
+      "email": "hemant.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "AVANISH KUMAR",
+      "email": "avanish.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARSH SHARDUL",
+      "email": "harsh.shardul_cs23@gla.ac.in"
+    },
+    {
+      "name": "KAUSHAL VEER SINGH",
+      "email": "kaushal.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "KULDEEP PARMAR",
+      "email": "kuldeep.parmar_cs23@gla.ac.in"
+    },
+    {
+      "name": "SURAJ KUMAR JAISWAL",
+      "email": "suraj.jaiswal_cs23@gla.ac.in"
+    },
+    {
+      "name": "YUVRAJ SINGH",
+      "email": "yuvraj.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "PANKAJ KUMAR",
+      "email": "pankaj.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMAN KUNTAL",
+      "email": "aman.kuntal1_cs23@gla.ac.in"
+    },
+    {
+      "name": "RISHABH RAI",
+      "email": "rishabh.rai_cs23@gla.ac.in"
+    },
+    {
+      "name": "UTKARSH SHARMA",
+      "email": "utkarsh.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "AVINASH PATHAK",
+      "email": "avinash.pathak_cs23@gla.ac.in"
+    },
+    {
+      "name": "OM GUPTA",
+      "email": "om.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA FAUZDAR",
+      "email": "aditya.fauzdar_cs23@gla.ac.in"
+    },
+    {
+      "name": "KARTIKEY VARSHNEY",
+      "email": "kartikey.varshney_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMIT KUMAR",
+      "email": "amit.kumar1_cs23@gla.ac.in"
+    },
+    {
+      "name": "VAIBHAV UPADHYAY",
+      "email": "vaibhav.upadhyay_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA SAINI",
+      "email": "aditya.saini_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH YADUVANSHI",
+      "email": "ayush.yaduvanshi_cs23@gla.ac.in"
+    },
+    {
+      "name": "KUNAL PANDEY",
+      "email": "kunal.pandey_cs23@gla.ac.in"
+    },
+    {
+      "name": "SRAJAL KULSHRESHTHA",
+      "email": "srajal.kulshreshtha_cs23@gla.ac.in"
+    },
+    {
+      "name": "SURYANSH PARASHAR",
+      "email": "suryansh.parashar_cs23@gla.ac.in"
+    },
+    {
+      "name": "YUVRAJ KAUSHIK",
+      "email": "yuvraj.kaushik_cs23@gla.ac.in"
+    },
+    {
+      "name": "WASEEQ",
+      "email": "waseeq.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEPANSHU SHAKYA",
+      "email": "deepanshu.shakya_cs23@gla.ac.in"
+    },
+    {
+      "name": "KRISHNA PARASHAR",
+      "email": "krishna.parashar_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRAJJVAL SHARMA",
+      "email": "prajjval.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "KARTIKEY CHAUHAN",
+      "email": "kartikey.chauhan_cs23@gla.ac.in"
+    },
+    {
+      "name": "KRISHNA CHAUHAN",
+      "email": "krishna.chauhan_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHINAV UPADHYAY",
+      "email": "abhinav.upadhyay_cs23@gla.ac.in"
+    },
+    {
+      "name": "YUVRAJ SINGH",
+      "email": "yuvraj.singh5_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA SINGH",
+      "email": "aditya.singh6_cs23@gla.ac.in"
+    },
+    {
+      "name": "ATUL KUMAR",
+      "email": "atul.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAGHAV SHARMA",
+      "email": "raghav.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "AVINENDRA SINGH",
+      "email": "avinendra.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARSHVARDHAN",
+      "email": "harshvardhan.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARPIT KUMAR",
+      "email": "arpit.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUMIT SINGH",
+      "email": "sumit.singh1_cs23@gla.ac.in"
+    },
+    {
+      "name": "HIMANSHU UPADHYAY",
+      "email": "himanshu.upadhyay_cs23@gla.ac.in"
+    },
+    {
+      "name": "NITISH KUMAR",
+      "email": "nitish.kumar2_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEWANG SHARMA",
+      "email": "dewang.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "RAJA PATHAK",
+      "email": "raja.pathak_cs23@gla.ac.in"
+    },
+    {
+      "name": "NAGESH CHAUDHARY",
+      "email": "nagesh.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARISHCHANDRA",
+      "email": "harishchandra.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "PIYUSH YADAV",
+      "email": "piyush.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "VIVEK DUBEY",
+      "email": "vivek.dubey_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARYAN GUPTA",
+      "email": "aryan.gupta6_cs23@gla.ac.in"
+    },
+    {
+      "name": "NISHCHAY TENGURIA",
+      "email": "nishchay.tenguria_cs23@gla.ac.in"
+    },
+    {
+      "name": "BHARAT SAINI",
+      "email": "bharat.saini_cs23@gla.ac.in"
+    },
+    {
+      "name": "YUBRAJ CHOUDHARY",
+      "email": "yubraj.choudhary_cs24@gla.ac.in"
+    },
+    {
+      "name": "RAUSHAN KUMAR",
+      "email": "raushan.kumar_cs24@gla.ac.in"
+    },
+    {
+      "name": "BHASKER RAJ",
+      "email": "bhasker.raj_cs24@gla.ac.in"
+    },
+    {
+      "name": "ADITYA RAJ",
+      "email": "aditya.raj2_cs23@gla.ac.in"
+    },
+    {
+      "name": "VISHAL KATARA",
+      "email": "vishal.katara_cs23@gla.ac.in"
+    },
+    {
+      "name": "ROBIN SINGH",
+      "email": "robin.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKASH CHAUDHARY",
+      "email": "akash.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH GUPTA",
+      "email": "ayush.gupta4_cs23@gla.ac.in"
+    },
+    {
+      "name": "MALAY KUMAR YADAV",
+      "email": "malay.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "NISHANKH NEHEWAL",
+      "email": "nishankh.nehewal_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASH BHARDWAJ",
+      "email": "yash.bhardwaj1_cs23@gla.ac.in"
+    },
+    {
+      "name": "NISHANT SINGH",
+      "email": "nishant.singh1_cs23@gla.ac.in"
+    },
+    {
+      "name": "UTKARSH CHATURVEDI",
+      "email": "utkarsh.chaturvedi_cs23@gla.ac.in"
+    },
+    {
+      "name": "KAVISH CHAUDHARY",
+      "email": "kavish.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "LUCKY PARMAR",
+      "email": "lucky.parmar_cs23@gla.ac.in"
+    },
+    {
+      "name": "HARSH VERMA",
+      "email": "harsh.verma_cs23@gla.ac.in"
+    },
+    {
+      "name": "NISHANT TEWATIA",
+      "email": "nishant.tewatia_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHIVAM TIWARI",
+      "email": "shivam.tiwari4_cs23@gla.ac.in"
+    },
+    {
+      "name": "SONU KUMAR",
+      "email": "sonu.kumar1_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMBESH DUBEY",
+      "email": "ambesh.dubey_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARUSH SAXENA",
+      "email": "arush.saxena_cs23@gla.ac.in"
+    },
+    {
+      "name": "HIMANSHU SINGH",
+      "email": "himanshu.singh2_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHISHEK",
+      "email": "abhishek.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "AMRIT LAL",
+      "email": "amrit.lal_cs23@gla.ac.in"
+    },
+    {
+      "name": "PAWAN KUMAR",
+      "email": "pawan.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANSH PRATAP SINGH",
+      "email": "ansh.singh2_cs23@gla.ac.in"
+    },
+    {
+      "name": "ATHARV SHARMA",
+      "email": "atharv.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "YATENDRA SINGH",
+      "email": "yatendra.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHINAV PANDEY",
+      "email": "abhinav.pandey1_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARYAN SHARMA",
+      "email": "aryan.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANUBHAV PANDEY",
+      "email": "anubhav.pandey1_cs23@gla.ac.in"
+    },
+    {
+      "name": "JATIN CHAUHAN",
+      "email": "jatin.chauhan1_cs23@gla.ac.in"
+    },
+    {
+      "name": "PRATYUSH KUMAR",
+      "email": "pratyush.kumar_cs22@gla.ac.in"
+    },
+    {
+      "name": "DIVYANSHU MISHRA",
+      "email": "divyanshu.mishra_cs23@gla.ac.in"
+    },
+    {
+      "name": "JITENDRA BAGHEL",
+      "email": "jitendra.baghel_cs23@gla.ac.in"
+    },
+    {
+      "name": "SAMAGRA GUPTA",
+      "email": "samagra.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "DURGESH SINGH",
+      "email": "durgesh.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "KOSHAL KUMAR",
+      "email": "koshal.kumar_cs23@gla.ac.in"
+    },
+    {
+      "name": "SAURABH",
+      "email": "saurabh.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANUKALP GUPTA",
+      "email": "anukalp.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "GAURAV SINGH",
+      "email": "gaurav.singh1_cs23@gla.ac.in"
+    },
+    {
+      "name": "BHAGAT SINGH",
+      "email": "bhagat.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHWETANK",
+      "email": "shwetank.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "TUSHAR PRATAP SINGH",
+      "email": "tushar.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ADITYA GAUTAM",
+      "email": "aditya.gautam_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUJAL GUPTA",
+      "email": "sujal.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "AYUSH PRATAP SINGH",
+      "email": "ayush.singh3_cs23@gla.ac.in"
+    },
+    {
+      "name": "DIVYANSH",
+      "email": "divyansh.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "MOHIT KUSHWAH",
+      "email": "mohit.kushwah1_cs23@gla.ac.in"
+    },
+    {
+      "name": "LAVKUSH SHARMA",
+      "email": "lavkush.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUDHIR CHAUDHARY",
+      "email": "sudhir.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "TAPISH CHAUDHARY",
+      "email": "tapish.chaudhary_cs23@gla.ac.in"
+    },
+    {
+      "name": "KANHA RAWAT",
+      "email": "kanha.rawat_cs23@gla.ac.in"
+    },
+    {
+      "name": "INDRAJEET SINGH",
+      "email": "indrajeet.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "SOURAV YADAV",
+      "email": "sourav.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "GARV SRIVASTAVA",
+      "email": "garv.srivastava_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANUBHAV SINGH",
+      "email": "anubhav.gla_cs23@gla.ac.in"
+    }
+  ],
+  "girls": [
+    {
+      "name": "Sanskriti Mohit Garg",
+      "email": "sanskriti.garg_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKARSHA PURWAR",
+      "email": "akarsha.purwar_cs23@gla.ac.in"
+    },
+    {
+      "name": "GUNGUN GAUTAM",
+      "email": "gungun.gautam_cs24@gla.ac.in"
+    },
+    {
+      "name": "PRIYANSHI BANSAL",
+      "email": "priyanshi.bansal_cs.aiml23@gla.ac.in"
+    },
+    {
+      "name": "PALAK MITTAL",
+      "email": "palak.mittal_cs23@gla.ac.in"
+    },
+    {
+      "name": "Khushi Agrawal",
+      "email": "khushi.agrawal_cs23@gla.ac.in"
+    },
+    {
+      "name": "PALAK NAYAK",
+      "email": "palak.nayak_cs23@gla.ac.in"
+    },
+    {
+      "name": "Akshita Singh",
+      "email": "akshita.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "Anshika Bhadauria",
+      "email": "anshika.bhadauria_cs23@gla.ac.in"
+    },
+    {
+      "name": "MADHVI MAHESHWARI",
+      "email": "madhvi.maheshwari_cs23@gla.ac.in"
+    },
+    {
+      "name": "Ishita Ranjan",
+      "email": "ishita.ranjan_cs23@gla.ac.in"
+    },
+    {
+      "name": "Gaurangi Gaur",
+      "email": "gaurangi.gaur_cs23@gla.ac.in"
+    },
+    {
+      "name": "SUKANSHI GARG",
+      "email": "sukanshi.garg_cs23@gla.ac.in"
+    },
+    {
+      "name": "SONIA",
+      "email": "sonia.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "MUSKAN DIWAN",
+      "email": "muskan.diwan_cs23@gla.ac.in"
+    },
+    {
+      "name": "VAISHNAVI RAI",
+      "email": "vaishnavi.rai_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANVESHA SINGH",
+      "email": "anvesha.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANSHIKA",
+      "email": "anshika.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "AKANKSHA VARSHNEY",
+      "email": "akanksha.varshney_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHIVANGI SHARMA",
+      "email": "shivangi.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "JITIKA BHARDWAJ",
+      "email": "jitika.bhardwaj_cs23@gla.ac.in"
+    },
+    {
+      "name": "KASHISH",
+      "email": "kashish.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "RADHIKA",
+      "email": "radhika.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "ABHOO GOYAL",
+      "email": "abhoo.goyal_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEPTI SHARMA",
+      "email": "deepti.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "SONAL AGRAWAL",
+      "email": "sonal.agrawal_cs23@gla.ac.in"
+    },
+    {
+      "name": "AHANA BHAGWANI",
+      "email": "ahana.bhagwani_cs23@gla.ac.in"
+    },
+    {
+      "name": "ISHA TOMAR",
+      "email": "isha.tomar_cs23@gla.ac.in"
+    },
+    {
+      "name": "KHUSHI JAIN",
+      "email": "khushi.jain_cs23@gla.ac.in"
+    },
+    {
+      "name": "SWARNIMA SARASWAT",
+      "email": "swarnima.saraswat_cs23@gla.ac.in"
+    },
+    {
+      "name": "NIDHIKA",
+      "email": "nidhika.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "RASHI SHARMA",
+      "email": "rashi.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANJALI",
+      "email": "anjali.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "DIVYANSHI AGRWAL",
+      "email": "divyanshi.agrwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "KHUSHI MALHOTRA",
+      "email": "khushi.malhotra_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHREYA SARASWAT",
+      "email": "shreya.saraswat_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHUBHIGYA SHARMA",
+      "email": "shubhigya.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "TANNU",
+      "email": "tannu.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "KOMAL RAJORIA",
+      "email": "komal.rajoria_cs23@gla.ac.in"
+    },
+    {
+      "name": "SRIJAL SINGH CHAUHAN",
+      "email": "srijal.chauhan_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHREYA SAHU",
+      "email": "shreya.sahu_cs23@gla.ac.in"
+    },
+    {
+      "name": "BHUMIKA GUPTA",
+      "email": "bhumika.gupta_cs23@gla.ac.in"
+    },
+    {
+      "name": "KANAK KHANDELWAL",
+      "email": "kanak.khandelwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANJU KUMARI",
+      "email": "anju.kumari_cs23@gla.ac.in"
+    },
+    {
+      "name": "ASTHA YADAV",
+      "email": "astha.yadav_cs23@gla.ac.in"
+    },
+    {
+      "name": "KRITIKA SHARAN",
+      "email": "kritika.sharan_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEVANSHI BANSAL",
+      "email": "devanshi.bansal_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHAKSHI AGRAWAL",
+      "email": "shakshi.agrawal_cs23@gla.ac.in"
+    },
+    {
+      "name": "KHUSHI SHARMA",
+      "email": "khushi.sharma_cs.aiml23@gla.ac.in"
+    },
+    {
+      "name": "BHUMIKA AGARWAL",
+      "email": "bhumika.agarwal_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANUSHKA RAI",
+      "email": "anushka.rai_cs23@gla.ac.in"
+    },
+    {
+      "name": "VANSHIKA SHARMA",
+      "email": "vanshika.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "ARUSHI MODI",
+      "email": "arushi.modi_cs23@gla.ac.in"
+    },
+    {
+      "name": "DEEPA KUMARI",
+      "email": "deepa.kumari_cs23@gla.ac.in"
+    },
+    {
+      "name": "AAKRITI SHARMA",
+      "email": "aakriti.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "KASHISH RAJAWAT",
+      "email": "kashish.rajawat_cs23@gla.ac.in"
+    },
+    {
+      "name": "KRITIKA MISHRA",
+      "email": "kritika.mishra2_cs23@gla.ac.in"
+    },
+    {
+      "name": "ANUSHKA TOMAR",
+      "email": "anushka.tomar_cs23@gla.ac.in"
+    },
+    {
+      "name": "MANSI SHARMA",
+      "email": "mansi.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "YASHA TOMAR",
+      "email": "yasha.tomar_cs23@gla.ac.in"
+    },
+    {
+      "name": "MUSKAN VARSHNEY",
+      "email": "muskan.varshney_cs23@gla.ac.in"
+    },
+    {
+      "name": "KALPANA SINGH",
+      "email": "kalpana.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "JAYA TRIPATHI",
+      "email": "jaya.tripathi_cs23@gla.ac.in"
+    },
+    {
+      "name": "KANAK PARASAR",
+      "email": "kanak.parasar_cs23@gla.ac.in"
+    },
+    {
+      "name": "MOHINI",
+      "email": "mohini.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "KAJAL KUMARI SINGH",
+      "email": "kajal.singh_cs23@gla.ac.in"
+    },
+    {
+      "name": "KASHISH AGRAWAL",
+      "email": "kashish.agrawal_cs23@gla.ac.in"
+    },
+    {
+      "name": "KAVYA GOYAL",
+      "email": "kavya.goyal_cs23@gla.ac.in"
+    },
+    {
+      "name": "KHUSHI SHARMA",
+      "email": "khushi.sharma_cs23@gla.ac.in"
+    },
+    {
+      "name": "SHATANKSHI",
+      "email": "shatankshi.gla_cs23@gla.ac.in"
+    },
+    {
+      "name": "MOHINI GUPTA",
+      "email": "mohini.gupta_cs23@gla.ac.in"
+    }
+  ]
+}
