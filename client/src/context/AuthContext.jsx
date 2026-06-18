@@ -12,7 +12,7 @@ export const AuthProvider = ({ children }) => {
 
     const apiRef = useRef(null);
     if (!apiRef.current) {
-        const baseURL = import.meta.env.VITE_API_URL || '/api';
+        const baseURL = process.env.VITE_API_URL || '/api';
         const instance = axios.create({ baseURL });
         instance.interceptors.request.use((config) => {
             const t = localStorage.getItem('token');
