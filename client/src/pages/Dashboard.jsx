@@ -15,6 +15,7 @@ export default function Dashboard() {
         name: user?.name || '',
         age: user?.age || '',
         city: user?.city || '',
+        phone: user?.phone || '',
         bio: user?.bio || '',
         interests: user?.interests || [],
     });
@@ -255,6 +256,10 @@ export default function Dashboard() {
                                     <input name="city" value={form.city} onChange={handleChange} placeholder="e.g., Mumbai, Delhi, Bangalore" />
                                 </div>
                                 <div className="form-group">
+                                    <label>Phone Number</label>
+                                    <input name="phone" value={form.phone} onChange={handleChange} placeholder="e.g., +91 98765 43210" />
+                                </div>
+                                <div className="form-group">
                                     <label>About you</label>
                                     <textarea name="bio" value={form.bio} onChange={handleChange} rows={3} placeholder="Write a short bio..." />
                                 </div>
@@ -358,6 +363,15 @@ export default function Dashboard() {
                                     <div className="match-detail-card" onClick={(e) => e.stopPropagation()}>
                                         <button className="match-detail-close" onClick={() => setSelectedMatch(null)}>✕</button>
                                         <h3 style={{ marginTop: 0 }}>{selectedMatch.partnerName}</h3>
+                                        <div style={{ fontSize: '13px', color: '#666', marginBottom: '12px' }}>
+                                            {selectedMatch.senderId === user?._id ? (
+                                                <><div><strong>Email:</strong> {selectedMatch.partnerEmail}</div>
+                                                    {selectedMatch.partnerPhone && <div><strong>Phone:</strong> {selectedMatch.partnerPhone}</div>}</>
+                                            ) : (
+                                                <><div><strong>Email:</strong> {selectedMatch.senderEmail}</div>
+                                                    {selectedMatch.senderPhone && <div><strong>Phone:</strong> {selectedMatch.senderPhone}</div>}</>
+                                            )}
+                                        </div>
                                         <div className="match-detail-grid">
                                             <div><strong>Date:</strong> {selectedMatch.date}</div>
                                             <div><strong>Time:</strong> {selectedMatch.time}</div>

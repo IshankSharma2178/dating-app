@@ -12,7 +12,8 @@ export const AuthProvider = ({ children }) => {
 
     const apiRef = useRef(null);
     if (!apiRef.current) {
-        const instance = axios.create({ baseURL: '/api' });
+        const baseURL = import.meta.env.VITE_API_URL || '/api';
+        const instance = axios.create({ baseURL });
         instance.interceptors.request.use((config) => {
             const t = localStorage.getItem('token');
             if (t) config.headers.Authorization = `Bearer ${t}`;

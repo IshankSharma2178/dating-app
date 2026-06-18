@@ -10,10 +10,11 @@ router.get('/', auth, async (req, res) => {
 
 router.put('/', auth, async (req, res) => {
     try {
-        const { name, age, city, bio, interests } = req.body;
+        const { name, age, phone, city, bio, interests } = req.body;
         const update = {};
         if (name) update.name = name;
         if (age) update.age = age;
+        if (phone !== undefined) update.phone = phone;
         if (city) update.city = city;
         if (bio) update.bio = bio;
         if (interests) update.interests = interests;

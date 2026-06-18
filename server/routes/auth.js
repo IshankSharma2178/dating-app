@@ -40,7 +40,7 @@ router.post('/send-otp', async (req, res) => {
 
 router.post('/verify-otp', async (req, res) => {
     try {
-        const { email, otp, name, gender, age, city, bio, interests } = req.body;
+        const { email, otp, name, phone, gender, age, city, bio, interests } = req.body;
         if (!email || !otp) return res.status(400).json({ message: 'Email and OTP are required' });
 
         const record = await Otp.findOne({
@@ -63,6 +63,7 @@ router.post('/verify-otp', async (req, res) => {
                 email: email.toLowerCase(),
                 password: crypto.randomBytes(20).toString('hex'),
                 gender: gender || 'boys',
+                phone: phone || '',
                 age: age || null,
                 city: city || '',
                 bio: bio || '',
@@ -72,6 +73,7 @@ router.post('/verify-otp', async (req, res) => {
         } else {
             if (name) user.name = name;
             if (gender) user.gender = gender;
+            if (phone !== undefined) user.phone = phone;
             if (age) user.age = age;
             if (city !== undefined) user.city = city;
             if (bio !== undefined) user.bio = bio;
@@ -98,7 +100,7 @@ router.post('/verify-otp', async (req, res) => {
         const token = generateToken(user);
         res.json({
             token,
-            user: { id: user._id, name: user.name, email: user.email, gender: user.gender, verified: user.verified, age: user.age, city: user.city, bio: user.bio, interests: user.interests },
+            user: { id: user._id, name: user.name, email: user.email, phone: user.phone || '', gender: user.gender, verified: user.verified, age: user.age, city: user.city, bio: user.bio, interests: user.interests },
         });
     } catch (err) {
         console.error('Verify OTP error:', err);
